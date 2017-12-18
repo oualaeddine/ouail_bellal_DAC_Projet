@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DAC_Projet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DAC_Projet_jar</output-path>
+    <root id="archive" name="DAC_Projet.jar">
+      <element id="module-output" name="DAC_Projet" />
+    </root>
+  </artifact>
+</component>
